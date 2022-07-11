@@ -7,3 +7,6 @@ export laporan berupa PDF.
 # Description
 - Folder Project u/ folder laravel
 - Folder Result u/ hasil dari print out pdf
+
+# Reference
+- Diambil dari website [malascoding](https://www.malasngoding.com/membuat-laporan-pdf-dengan-dompdf-laravel/)
